@@ -1,0 +1,34 @@
+baseURL: ""
+languageCode: "en-us"
+title: "Spiritual Development"
+theme: "zen"
+
+params:
+    feedlinks: true
+    podcast:
+        image: isabella_Relaxation.jpg
+    searchform: true
+    logo: false
+    mobileMenu: true
+
+#    Menu:
+#        Main:
+#            name: "About"
+#            identifier: "about"
+
+languages:
+    en:
+        weight: 1
+        languageName: "English"
+    de:
+        weight: 2
+        languageName: "Deuthch"
+        params:
+            title: "Spirituellen Weiterentwicklung"
+    pl:
+        weight: 3
+        languageName: "Polski"
+        params:
+            title: "Rozwój duchowy"
+
+DefaultContentLanguage: en
