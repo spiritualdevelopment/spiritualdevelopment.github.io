@@ -1,0 +1,38 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Spiritual Development</title>
+    <link>/de/podcast/</link>
+    <description></description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Apr 2020 12:23:35 +0200</lastBuildDate>
+    <atom:link href="/de/podcast/index.xml" rel="self" type="application/rss+xml" />
+    <itunes:image href="/isabella_Relaxation.jpg" />
+    
+    
+    
+    
+    
+    
+    <itunes:explicit>false</itunes:explicit>
+    
+    <item>
+      <title>Körperreise zum Entspannen</title>
+      <itunes:title>Körperreise zum Entspannen</itunes:title>
+      <link>/de/podcast/2020-04-12/</link>
+      <guid>/de/podcast/2020-04-12/</guid>
+      <pubDate>Sun, 12 Apr 2020 12:23:35 +0200</pubDate>
+      <description>&lt;p&gt;Eine Körperreise (body scan) zum Entspannen und ruhigem Verweilen.&lt;/p&gt;
+</description>
+      <enclosure url="audio/2020-04-12_Korperreise_zum_Entspannen.mp3" length="12431985" type="audio/mpeg" />
+      <itunes:duration>0:16:57</itunes:duration>
+      
+      
+      
+      
+      
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    
+  </channel>
+</rss>

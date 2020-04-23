@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spiritual Development</title>
+    <link>/</link>
+    <description>Recent content on Spiritual Development</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Apr 2020 16:47:50 +0200</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Yoga Nidra with Body Scan</title>
+      <link>/podcast/2018-11-18-supine/</link>
+      <pubDate>Thu, 23 Apr 2020 12:37:30 +0200</pubDate>
+      <guid>/podcast/2018-11-18-supine/</guid>
+      <description>&lt;p&gt;Yoga Nidra is a Sanskrit term for the yogic sleep, a deep relaxation technique with a body scan.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about us</title>
+      <link>/about/</link>
+      <pubDate>Fri, 17 Apr 2020 16:47:50 +0200</pubDate>
+      <guid>/about/</guid>
+      <description>&lt;p&gt;this is the about page&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
