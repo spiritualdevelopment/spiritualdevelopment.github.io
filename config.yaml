@@ -11,18 +11,13 @@ params:
     logo: false
     mobileMenu: true
 
-#    Menu:
-#        Main:
-#            name: "About"
-#            identifier: "about"
-
 languages:
     en:
         weight: 1
         languageName: "English"
     de:
         weight: 2
-        languageName: "Deuthch"
+        languageName: "Deutsch"
         params:
             title: "Spirituellen Weiterentwicklung"
     pl:
