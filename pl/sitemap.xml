@@ -23,26 +23,6 @@
   </url>
   
   <url>
-    <loc>/pl/</loc>
-    <lastmod>2020-04-17T16:47:50+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="/pl/"
-                />
-  </url>
-  
-  <url>
     <loc>/pl/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -58,6 +38,25 @@
                 rel="alternate"
                 hreflang="pl"
                 href="/pl/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/pl/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="/pl/"
                 />
   </url>
   

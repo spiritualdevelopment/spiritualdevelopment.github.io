@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Spiritual Development</title>
+    <title>Rozwój duchowy</title>
     <link>/pl/</link>
-    <description>Recent content on Spiritual Development</description>
+    <description>Recent content on Rozwój duchowy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Apr 2020 16:47:50 +0200</lastBuildDate>
     <atom:link href="/pl/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -14,7 +13,8 @@
       <link>/pl/about/</link>
       <pubDate>Fri, 17 Apr 2020 16:47:50 +0200</pubDate>
       <guid>/pl/about/</guid>
-      <description>&lt;p&gt;Isabella jest nauczycielką jogi i medytacji.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;D56_6391.jpg&#34; alt=&#34;Isabella and Raphael&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Isabella jest nauczycielką jogi i medytacji.&lt;/p&gt;
 &lt;p&gt;Rafał studiuje joge Kum Nye.&lt;/p&gt;
 &lt;p&gt;Naszym marzeniem jest otwarcie centrum medytacyjnego i życie w zgodzie z zasadami permakultury.&lt;/p&gt;
 </description>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Spiritual Development</title>
+    <title>Spirituellen Weiterentwicklung</title>
     <link>/de/</link>
-    <description>Aktuelle Inhalte auf Spiritual Development</description>
+    <description>Aktuelle Inhalte auf Spirituellen Weiterentwicklung</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Apr 2020 16:47:50 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="/de/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -14,8 +14,13 @@
       <link>/de/about/</link>
       <pubDate>Fri, 17 Apr 2020 16:47:50 +0200</pubDate>
       <guid>/de/about/</guid>
-      <description>&lt;p&gt;Isabella ist eine zertifizierte Yoga- und Meditationslehrerin.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;D56_6391.jpg&#34; alt=&#34;Isabella and Raphael&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Isabella: ich habe meine Yoga- und Meditationslehrer Ausbildung in Irland 2017 abgeschloßen, seit 2012 studiere und praktiziere ich zusätzlich tibetischen Buddhismus, nach Polen bin ich mit meinem Parnter Raphael gekommen, um unseren Traum von einem eigenen Retreat Zentrum zu erfüllen.&lt;/p&gt;
+&lt;p&gt;Yoga, Meditation und leben in der Natur verbinden für mich mein ganzheitliches Wesen, daß Ausgeglichenheit in der Stille findet.&lt;/p&gt;
+&lt;p&gt;Permakultur Lösungsansätze, gärtnern, vegetarisch kochen, backen und Heilkräuter zu Tee und Salben verarbeiten sind nur einige Komponenten meines Lebens neben meiner spirituellen Praxis. Durch Achtsamkeit in allen Bereichen kann ich das eine vom anderen nicht mehr trennen.&lt;/p&gt;
+&lt;hr&gt;
 &lt;p&gt;Raphael studiert Kum Nye in seiner Yoga Praxis.&lt;/p&gt;
+&lt;hr&gt;
 &lt;p&gt;Wir beide würde gerne ein Meditationszentrum aufbauen und nach Permakultur Prinzipien leben.&lt;/p&gt;
 </description>
     </item>
