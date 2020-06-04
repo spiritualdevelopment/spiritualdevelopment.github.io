@@ -1,8 +1,8 @@
 ---
 title: "O nas"
-description: "about this site"
 Date: 2020-04-17T16:47:50+02:00
 ---
+![Isabella and Raphael](D56_6391.jpg)
 
 Isabella jest nauczycielką jogi i medytacji.
 

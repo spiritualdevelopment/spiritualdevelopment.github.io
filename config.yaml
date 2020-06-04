@@ -1,5 +1,6 @@
 baseURL: ""
 languageCode: "en-us"
+#title: "Mindful Earth"
 title: "Spiritual Development"
 theme: "zen"
 
@@ -18,12 +19,11 @@ languages:
     de:
         weight: 2
         languageName: "Deutsch"
-        params:
-            title: "Spirituellen Weiterentwicklung"
+        title: "Spirituellen Weiterentwicklung"
     pl:
         weight: 3
         languageName: "Polski"
-        params:
-            title: "Rozwój duchowy"
+#        title: "Ziemia i Uważność"
+        title: "Rozwój duchowy"
 
 DefaultContentLanguage: en
