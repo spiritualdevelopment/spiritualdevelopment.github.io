@@ -3,5 +3,5 @@
 	url = https://github.com/frjo/hugo-theme-zen.git
 [submodule "public"]
 	path = public
-	url = ./
+	url = git@github.com:spiritualdevelopment/spiritualdevelopment.github.io.git
 	branch = master
