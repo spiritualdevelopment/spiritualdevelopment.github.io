@@ -3,7 +3,7 @@ title: "Die Entwicklung von Liebe und Mitgefühl"
 date: 2020-06-04
 author: "Isabella Binder"
 podcast:
-    mp3: /audio/2020-06-04 Die Entwicklung von Liebe und Mitgefühl.mp3
+    mp3: /audio/2 Die Entwicklung von Liebe und Mitgefühl.mp3
     duration: 0:29:33
 
 ---

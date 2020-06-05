@@ -3,7 +3,7 @@ title: "Kurzlebigkeit, Tod und Veränderung aller Dinge"
 date: 2020-06-04
 author: "Isabella Binder"
 podcast:
-    mp3: /audio/2020-06-04 Kurzlebigkeit, Tod und Veränderung aller Dinge.mp3
+    mp3: /audio/4 Kurzlebigkeit, Tod und Veränderung aller Dinge.mp3
     duration: 0:30:16
 
 ---

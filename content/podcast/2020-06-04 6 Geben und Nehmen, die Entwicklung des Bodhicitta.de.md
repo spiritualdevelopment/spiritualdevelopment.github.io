@@ -3,7 +3,7 @@ title: "Geben und Nehmen, die Entwicklung des Bodhicitta"
 date: 2020-06-04
 author: "Isabella Binder"
 podcast:
-    mp3: /audio/2020-06-04 Geben und Nehmen, die Entwicklung des Bodhicitta.mp3
+    mp3: /audio/6 Geben und Nehmen, die Entwicklung des Bodhicitta.mp3
     duration: 0:29:57
 
 ---

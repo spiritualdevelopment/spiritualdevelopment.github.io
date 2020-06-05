@@ -3,7 +3,7 @@ title: "Das Erkennen des Leidens im Daseinskreislauf"
 date: 2020-06-04
 author: "Isabella Binder"
 podcast:
-    mp3: /audio/2020-06-04 Das Erkennen des Leidens im Daseinskreislauf.mp3
+    mp3: /audio/3 Das Erkennen des Leidens im Daseinskreislaufs.mp3
     duration: 0:29:26
 
 ---

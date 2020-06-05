@@ -3,7 +3,7 @@ title: "Unverständnis vom Selbst"
 date: 2020-06-04
 author: "Isabella Binder"
 podcast:
-    mp3: /audio/2020-06-04 Unverständnis vom Selbst.mp3
+    mp3: /audio/8 Unverständnis vom Selbst.mp3
     duration: 0:30:00
 
 ---
