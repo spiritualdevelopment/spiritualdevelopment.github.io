@@ -5,6 +5,7 @@ author: "Isabella Binder"
 podcast:
     mp3: /audio/7 Die Transformation von ungünstigen Bedingungen zum Pfad der Erleuchtung.mp3
     duration: 0:27:34
+expiryDate: 2021-03-02
 
 ---
 

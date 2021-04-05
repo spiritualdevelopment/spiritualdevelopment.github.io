@@ -5,6 +5,7 @@ author: "Isabella Binder"
 podcast:
     mp3: /audio/Fokusmeditation Drei Atemübungen mit Meditationsglocke.mp3
     duration: 0:09:47
+expiryDate: 2021-03-02
 
 ---
 

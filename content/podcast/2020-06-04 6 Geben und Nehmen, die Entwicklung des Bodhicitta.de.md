@@ -5,6 +5,7 @@ author: "Isabella Binder"
 podcast:
     mp3: /audio/6 Geben und Nehmen, die Entwicklung des Bodhicitta.mp3
     duration: 0:29:57
+expiryDate: 2021-03-02
 
 ---
 

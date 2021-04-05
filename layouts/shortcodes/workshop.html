@@ -1,0 +1,11 @@
+<div class="workshop-item" style='{{ with .Get "color" }} background: {{ . }};{{ end }}'>
+    <div class='workshop-header' >
+        {{ .Get "title"}}
+    </div>
+    <div class="workshop-subtitle" >
+        {{ .Get "subtitle"}}
+    </div>
+    <div class="workshop-descr">
+        {{ .Inner }}
+    </div>
+</div>

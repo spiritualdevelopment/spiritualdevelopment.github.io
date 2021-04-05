@@ -1,8 +1,11 @@
 ---
 title: "Über uns"
 Date: 2020-04-17T16:47:50+02:00
+menu:
+    main:
+        weight: 30
 ---
-![Isabella and Raphael](D56_6391.jpg)
+![Isabella and Raphael](/image/us.jpg)
 
 Isabella: ich habe meine Yoga- und Meditationslehrer Ausbildung in Irland 2017 abgeschloßen, seit 2012 studiere und praktiziere ich zusätzlich tibetischen Buddhismus, nach Polen bin ich mit meinem Parnter Raphael gekommen, um unseren Traum von einem eigenen Retreat Zentrum zu erfüllen.
 

@@ -5,6 +5,7 @@ author: "Isabella Binder"
 podcast:
     mp3: audio/Etwas zum Nachdenken Die analytische Meditation.mp3
     duration: 0:07:55
+expiryDate: 2021-03-02
 
 ---
 

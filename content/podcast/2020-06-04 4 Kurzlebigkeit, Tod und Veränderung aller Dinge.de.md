@@ -5,6 +5,7 @@ author: "Isabella Binder"
 podcast:
     mp3: /audio/4 Kurzlebigkeit, Tod und Veränderung aller Dinge.mp3
     duration: 0:30:16
+expiryDate: 2021-03-02
 
 ---
 

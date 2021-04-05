@@ -7,4 +7,4 @@ menu:
 ---
 
 
-![background image](/image/rocks.jpg)
+![Stack of rocks on a beach](/image/rocks.jpg)

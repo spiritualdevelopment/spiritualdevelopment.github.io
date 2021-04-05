@@ -5,6 +5,7 @@ author: "Isabella Binder"
 podcast:
     mp3: /audio/Sieben Punkte Meditationshaltung.mp3
     duration: 0:07:03
+expiryDate: 2021-03-02
 
 ---
 

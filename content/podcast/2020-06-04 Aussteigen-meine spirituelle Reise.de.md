@@ -5,6 +5,7 @@ author: "Isabella Binder"
 podcast:
     mp3: /audio/Aussteigen - meine spirituelle Reise.mp3
     duration: 0:14:55
+expiryDate: 2021-03-02
 
 ---
 

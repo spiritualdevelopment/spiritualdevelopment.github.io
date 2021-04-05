@@ -1,7 +1,7 @@
 [submodule "themes/zen"]
 	path = themes/zen
-	url = https://github.com/frjo/hugo-theme-zen.git
-	branch = master
+	url = git@github.com:spiritualdevelopment/melisa-theme.git
+	branch = main
 [submodule "public"]
 	path = public
 	url = git@github.com:spiritualdevelopment/spiritualdevelopment.github.io.git

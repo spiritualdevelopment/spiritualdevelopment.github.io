@@ -5,6 +5,7 @@ author: "Isabella Binder"
 podcast:
     mp3: /audio/5 Austausch des Selbst mit Anderen.mp3
     duration: 0:30:04
+expiryDate: 2021-03-02
 
 ---
 

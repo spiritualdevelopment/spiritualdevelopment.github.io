@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+{{ "<!-- _default/baseof.html -->" | safeHTML }}
 <html class="nojs" lang="{{ .Site.Language.Lang }}" dir="{{ .Site.Language.LanguageDirection | default "ltr" }}">
 <head>
 <meta charset="utf-8">
@@ -30,6 +31,10 @@
 {{ if $.Param "sidebar" }}{{ partial "sidebar.html" . }}{{ end -}}
 
 <footer class="footer layout__footer">
+    <a rel="noopener noreferrer" href='{{ T "fb_page" }}'>
+        <img src="/image/fb.png" class="social-link" />
+    </a>
+
 {{ if $.Param "feedlinks" }}{{ partial "feedlinks.html" . }}{{ end -}}
 <p>{{ with $.Param "copyright" }}{{ . | markdownify }}{{ else }}<span>© {{ .Site.Title }}</span>{{ end }}</p>
 {{ with $.Param "footer" }}<p>{{ . | markdownify }}</p>{{ end }}

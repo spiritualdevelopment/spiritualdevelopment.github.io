@@ -1,29 +1,30 @@
-baseURL: ""
-languageCode: "en-us"
-#title: "Mindful Earth"
-title: "Spiritual Development"
+baseURL: "https://melisa.org.pl/"
+languageCode: "pl-PL"
+title: "Melisa Retreat"
 theme: "zen"
 
 params:
-    feedlinks: true
+    feedlinks: false
     podcast:
-        image: isabella_Relaxation.jpg
+        image: image/isabella_Relaxation.jpg
     searchform: true
     logo: false
     mobileMenu: true
+    sidebar: false
 
 languages:
     en:
-        weight: 1
+        weight: 3
         languageName: "English"
+        languageCode: "en-GB"
     de:
         weight: 2
         languageName: "Deutsch"
-        title: "Spirituellen Weiterentwicklung"
+        languageCode: "de-AT"
     pl:
-        weight: 3
+        weight: 1
         languageName: "Polski"
-#        title: "Ziemia i Uważność"
-        title: "Rozwój duchowy"
+        title: "Melisa"
 
-DefaultContentLanguage: en
+DefaultContentLanguage: pl
+defaultContentLanguageInSubdir: true

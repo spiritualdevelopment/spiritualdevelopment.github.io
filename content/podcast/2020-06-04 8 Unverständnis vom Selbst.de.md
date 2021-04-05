@@ -5,6 +5,7 @@ author: "Isabella Binder"
 podcast:
     mp3: /audio/8 Unverständnis vom Selbst.mp3
     duration: 0:30:00
+expiryDate: 2021-03-02
 
 ---
 
