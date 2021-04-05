@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact on Melisa Retreat</title>
+    <link>https://melisa.org.pl/en/contact/</link>
+    <description>Recent content in Contact on Melisa Retreat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Tue, 02 Mar 2021 00:55:01 +0100</lastBuildDate>
+    <atom:link href="https://melisa.org.pl/en/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>

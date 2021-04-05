@@ -1,83 +1,93 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/"
-                />
+    <loc>https://melisa.org.pl/en/contact/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/pl/"
+                href="https://melisa.org.pl/pl/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://melisa.org.pl/de/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://melisa.org.pl/en/contact/"
                 />
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-    <lastmod>2020-04-17T16:47:50+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/about/"
-                />
+  </url><url>
+    <loc>https://melisa.org.pl/en/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/pl/about/"
+                href="https://melisa.org.pl/pl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://melisa.org.pl/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about/"
+                href="https://melisa.org.pl/en/"
                 />
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/categories/"
-                />
+  </url><url>
+    <loc>https://melisa.org.pl/en/about/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/pl/categories/"
+                href="https://melisa.org.pl/pl/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://melisa.org.pl/de/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://melisa.org.pl/en/about/"
                 />
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/tags/"
-                />
+  </url><url>
+    <loc>https://melisa.org.pl/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/pl/tags/"
+                href="https://melisa.org.pl/pl/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://melisa.org.pl/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://melisa.org.pl/en/categories/"
+                />
+  </url><url>
+    <loc>https://melisa.org.pl/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://melisa.org.pl/pl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://melisa.org.pl/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://melisa.org.pl/en/tags/"
                 />
   </url>
-  
 </urlset>

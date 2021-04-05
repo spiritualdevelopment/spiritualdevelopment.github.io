@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Rozwój duchowy</title>
-    <link>/pl/tags/</link>
-    <description>Recent content in Tags on Rozwój duchowy</description>
+    <title>Tags on Melisa</title>
+    <link>https://melisa.org.pl/pl/tags/</link>
+    <description>Recent content in Tags on Melisa</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="/pl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>pl-PL</language>
+    <atom:link href="https://melisa.org.pl/pl/tags/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

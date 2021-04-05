@@ -1,22 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rozwój duchowy</title>
-    <link>/pl/</link>
-    <description>Recent content on Rozwój duchowy</description>
+    <title>Zajęcia on Melisa</title>
+    <link>https://melisa.org.pl/pl/</link>
+    <description>Recent content in Zajęcia on Melisa</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="/pl/index.xml" rel="self" type="application/rss+xml" />
+    <language>pl-PL</language>
+    <lastBuildDate>Tue, 23 Mar 2021 10:49:12 +0100</lastBuildDate>
+    <atom:link href="https://melisa.org.pl/pl/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>O nas</title>
-      <link>/pl/about/</link>
+      <link>https://melisa.org.pl/pl/about/</link>
       <pubDate>Fri, 17 Apr 2020 16:47:50 +0200</pubDate>
-      <guid>/pl/about/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;D56_6391.jpg&#34; alt=&#34;Isabella and Raphael&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Isabella jest nauczycielką jogi i medytacji.&lt;/p&gt;
-&lt;p&gt;Rafał studiuje joge Kum Nye.&lt;/p&gt;
-&lt;p&gt;Naszym marzeniem jest otwarcie centrum medytacyjnego i życie w zgodzie z zasadami permakultury.&lt;/p&gt;
+      <guid>https://melisa.org.pl/pl/about/</guid>
+      <description>&lt;h1 id=&#34;isabella&#34;&gt;Isabella&lt;/h1&gt;
+&lt;p&gt;Zaczęłam praktykować Jogę w wieku 19 lat, a dzięki regularnej praktyce zetknęłam się również z medytacją.&lt;/p&gt;
+&lt;p&gt;Moim pierwszym studio Jogi była &lt;a href=&#34;http://www.pranayoga.at/&#34;&gt;Prana das Yoga-Studio&lt;/a&gt;, którą w dalszym ciągu polecam.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://luna-yogaweg.at/&#34;&gt;Adelheid Ohlig&lt;/a&gt; stworzyła Luna Yoga (Jogę Lunarną), dzięki której poznałam siłę Jogi dla kobiet.&lt;/p&gt;
+&lt;p&gt;Kurs instruktora Jogi ukończyłam w Irlandii w 2017 i od tamtej pory regularnie prowadzę kursy. &lt;a href=&#34;https://www.ardnahoo.com/&#34;&gt;Noeleen Tyrrell&lt;/a&gt; proponuje nowy energiczny sposób z Anusara Yoga.&lt;/p&gt;
+&lt;p&gt;Z Somatic Yoga &lt;a href=&#34;https://lisapetersen.yoga/&#34;&gt;Lisy Petersen&lt;/a&gt; poznałam łagodną stronę ruchu ciała.&lt;/p&gt;
+&lt;p&gt;W &lt;a href=&#34;https://www.jampaling.org/&#34;&gt;Jampa Ling&lt;/a&gt;, ośrodku Tybetańskiego Buddyzmu w Irlandii praktykowałam medytację i studiowałam Buddyzm przez kilka lat. Ponad to byłam tam wolontariuszką oraz nauczycielem Jogi.
+Jeśli chcesz wesprzeć Ośrodek, możesz zrobić to &lt;a href=&#34;https://www.jampaling.org/about-us/support-jampa-ling/&#34;&gt;tutaj&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Kolejnym projektem, który doceniam i w którym byłam wolontariuszką, jest &lt;a href=&#34;https://www.projekt-ruanda-erika-hronicek.at/&#34;&gt;Projekt Ruanda&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;rafał&#34;&gt;Rafał&lt;/h1&gt;
+&lt;p&gt;Podczas mojego pobytu w Jampa Ling w Irlandii postanowiłem otworzyć ośrodek jogowo-medytacyjny (retreat centre) w Polsce. Obecnie pracujemy nad realizacją tego projektu.&lt;/p&gt;
+&lt;p&gt;Jogę Kum Nye poznałem w ośrodku buddyjskim Dzogchen Beara, a swoją praktykę medytacji pogłębiłem w Jampa Ling w Irlandii.&lt;/p&gt;
+&lt;h1 id=&#34;plany-na-przyszłość&#34;&gt;Plany na przyszłość&lt;/h1&gt;
+&lt;p&gt;Wszystkim poszukującym samotności, spokoju i uduchowienia chcemy zaoferować przestrzeń, w której można będzie się wyciszyć.&lt;/p&gt;
+&lt;p&gt;Jurty będą wyposażone skromnie ale wygodnie, z możliwością wynajęcia na krócej bądź dłużej. Dadzą możliwość wspólnej medytacji, jedzenia oraz pracy, oraz doświadczenia stanu relaksacji i spokoju.&lt;/p&gt;
+&lt;p&gt;Mieszkający w jednoosobowych jurty będą mieli możliwość żywienia we własnym zakresie i spędzenia czasu w zupełnym odosobnieniu. Zaoferujemy pomoc w ułożeniu harmonogramu dnia.&lt;/p&gt;
 </description>
     </item>
     

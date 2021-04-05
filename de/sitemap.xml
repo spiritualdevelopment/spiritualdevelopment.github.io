@@ -1,168 +1,93 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/de/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
+    <loc>https://melisa.org.pl/de/contact/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/pl/"
+                href="https://melisa.org.pl/pl/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://melisa.org.pl/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/"
+                href="https://melisa.org.pl/de/contact/"
                 />
-  </url>
-  
-  <url>
-    <loc>/de/podcast/2020-06-04-aussteigen-meine-spirituelle-reise/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/de/podcast/2020-06-04-5-austausch-des-selbst-mit-anderen/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/de/podcast/2020-06-04-3-das-erkennen-des-leidens-im-daseinskreislauf/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/de/podcast/2020-06-04-2-die-entwicklung-von-liebe-und-mitgef%C3%BChl/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/de/podcast/2020-06-04-die-k%C3%B6rperreise/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/de/podcast/2020-06-04-1-die-wertsch%C3%A4tzung-unserer-menschlichen-geburt/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/de/podcast/2020-06-04-eine-k%C3%B6rperreise-zum-entspannen/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/de/podcast/2020-06-04-etwas-zum-nachdenken/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/de/podcast/2020-06-04-fokusmeditation/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/de/podcast/2020-06-04-fokusmeditation-mit-3-atem%C3%BCbungen/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/de/podcast/2020-06-04-6-geben-und-nehmen-die-entwicklung-des-bodhicitta/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/de/podcast/2020-06-04-in-der-stille-sitzen/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/de/podcast/2020-06-04-4-kurzlebigkeit-tod-und-ver%C3%A4nderung-aller-dinge/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/de/podcast/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/de/podcast/2020-06-04-sieben-punkte-meditationshaltung/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/de/podcast/2020-06-04-7-die-transformation-von-ung%C3%BCnstigen-bedingungen-zum-pfad-der-erleuchtung/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/de/podcast/2020-06-04-8-unverst%C3%A4ndnis-vom-selbst/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/de/about/</loc>
-    <lastmod>2020-04-17T16:47:50+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/"
-                />
+  </url><url>
+    <loc>https://melisa.org.pl/de/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/pl/about/"
+                href="https://melisa.org.pl/pl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://melisa.org.pl/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/about/"
+                href="https://melisa.org.pl/de/"
                 />
-  </url>
-  
-  <url>
-    <loc>/de/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/"
-                />
+  </url><url>
+    <loc>https://melisa.org.pl/de/about/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/pl/categories/"
+                href="https://melisa.org.pl/pl/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://melisa.org.pl/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/categories/"
+                href="https://melisa.org.pl/de/about/"
                 />
-  </url>
-  
-  <url>
-    <loc>/de/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
-                />
+  </url><url>
+    <loc>https://melisa.org.pl/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/pl/tags/"
+                href="https://melisa.org.pl/pl/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://melisa.org.pl/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/tags/"
+                href="https://melisa.org.pl/de/categories/"
+                />
+  </url><url>
+    <loc>https://melisa.org.pl/de/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://melisa.org.pl/pl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://melisa.org.pl/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://melisa.org.pl/de/tags/"
                 />
   </url>
-  
 </urlset>
