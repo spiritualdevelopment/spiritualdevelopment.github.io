@@ -2,7 +2,3 @@
 	path = themes/zen
 	url = git@github.com:spiritualdevelopment/melisa-theme.git
 	branch = main
-[submodule "public"]
-	path = public
-	url = git@github.com:spiritualdevelopment/spiritualdevelopment.github.io.git
-	branch = master

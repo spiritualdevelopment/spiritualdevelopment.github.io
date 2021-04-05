@@ -1,27 +1,40 @@
 ---
 title: "About us"
 Date: 2020-04-17T16:47:50+02:00
+LastMod: 2021-04-05
 menu:
     main:
         weight: 30
 ---
 
-![Isabella and Raphael](/image/us.jpg)
 
-We seek to live in harmony on our homestead. We completely avoid alcohol, drugs, cigarettes and the consumption of meat in our home, and we kindly ask our visitors to do the same. In the same way we encourage a friendly approach in speech and action. Not to curse or yell at each other but to be open and receptive for new situations. To avoid lying for your own advantage. We are able to discuss everything but without using harsh words. These are a few examples of how we communicate on a day to day basis.
+# Isabella
 
-We live a minimalist lifestyle, and we are frugal in our financial decisions. In that way we can avoid bank loans and contact with investors. This gives us the freedom to develop the center in a beneficial way and we are independent of outside pressure.
+I started practicing Yoga with age 19 and through my regular practice I came in touch with meditation also. Different teachers and influences accompanied my path.
 
-## Future Plans
-Firstly we're planning to build yurts, renting to anyone who wishes to spend solitary time, for spiritual practices, arts, or just highly focused work.
+[My first yoga studio](http://www.pranayoga.at/) I visited in Vienna and I can still highly recommend it.
 
-Also, we like to invite people with special skills like healers, high sensitive beings, people in the autistic spectrum and all these, who are overwhelmed by the modern world and create a retreat area. We would like to offer a solution for the individual seeker of peace in a small setting.
+Adelheid Ohlig who created [Luna Yoga](https://luna-yogaweg.at/). Here I discovered the power of Yoga in the female form. I learnt a lot with Gyöngyi in Vienna.
+
+In Ireland I completed my teacher training in 2017 and since then I teach on a regular basis. [Noeleen Tyrrell](https://www.ardnahoo.com/) offereda new energetic way with Anusara Yoga.
+
+The gentle side of body movement I experienced with Somatic Yoga and [Lisa Petersen](https://lisapetersen.yoga/).
+
+In [Jampa Ling](www.jampaling.org), the Tibetan Buddhist center in Ireland, I have practiced meditation and studied buddhism for years. Also, I have worked as a housekeeper and yoga teacher in the center.
+If you like to support the center in any way, you can [donate here](https://www.jampaling.org/about-us/support-jampa-ling/).
+
+Another project I treasure and volunteered for is [Projekt Ruanda](https://www.projekt-ruanda-erika-hronicek.at/). 
+
+# Raphael
+
+In Ireland I had the idea of opening a retreat center in Poland. Now we are here to make it happen.
+
+I’ve learned Kum Nye Yoga in Dzogchen Beara, and I’ve deepened my meditation practice in Jampa Ling.
+
+# Future Plans
+
+We'd like to invite people with special skills like healers, high sensitive beings and all these, who are overwhelmed by the modern world and create a retreat area. We would like to offer a solution for the individual seeker of peace in a small setting.
 
 Yurts, simple but comfortable furnished, give the choice to live short or long term in a small community. It is possible to meditate, eat and work together. Also, it is important to experience relaxation and find stillness in us.
 
 The solitary yurts can provide self-catering options. There are different ways of cultivating a solitary retreat, and we can help to organize a daily routine.
-
-## Melisa – the name says it all
-
-Melisse (German), lemon balm (English), melisa (Polish), melissa officinalis (Latin)
-is often used as a herbal infusion to help find relaxation and comfort. We try to offer the same concept with our community and the retreat.

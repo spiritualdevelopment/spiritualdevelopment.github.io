@@ -11,6 +11,8 @@
             
             {{ .Content }}
 
+            <h3>{{ T "writeus" }}</h3>
+            
             {{ partial "contactform.html" . }}
 
             {{ if $.Param "relatedposts" | default false }}{{ partial "related.html" . }}{{ end -}}

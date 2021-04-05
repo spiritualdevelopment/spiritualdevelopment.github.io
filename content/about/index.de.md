@@ -1,22 +1,39 @@
 ---
 title: "Über uns"
 Date: 2020-04-17T16:47:50+02:00
+LastMod: 2021-04-05
 menu:
     main:
         weight: 30
 ---
-![Isabella and Raphael](/image/us.jpg)
 
-Isabella: ich habe meine Yoga- und Meditationslehrer Ausbildung in Irland 2017 abgeschloßen, seit 2012 studiere und praktiziere ich zusätzlich tibetischen Buddhismus, nach Polen bin ich mit meinem Parnter Raphael gekommen, um unseren Traum von einem eigenen Retreat Zentrum zu erfüllen.
+# Isabella
 
-Yoga, Meditation und leben in der Natur verbinden für mich mein ganzheitliches Wesen, daß Ausgeglichenheit in der Stille findet. 
+Über meine Yogapraxis, die ich mit 19 Jahren begonnen habe, ist mir auch das Meditieren nahe gebracht worden. Verschiedene Lehrer und Einflüße haben meinen Weg seitdem begleitet.
 
-Permakultur Lösungsansätze, gärtnern, vegetarisch kochen, backen und Heilkräuter zu Tee und Salben verarbeiten sind nur einige Komponenten meines Lebens neben meiner spirituellen Praxis. Durch Achtsamkeit in allen Bereichen kann ich das eine vom anderen nicht mehr trennen.
+[Mein erstes Yogastudio](http://www.pranayoga.at) habe ich in Wien besucht und kann es immer noch sehr empfehlen.
 
----
+Adelheid Ohlig hat [Luna Yoga](https://luna-yogaweg.at/) seinen Namen gegeben und hier habe ich zum ersten Mal die Kraft des Yoga und meine Weiblichkeit entdeckt. Mit Gyöngyi habe ich in Wien viel gelernt.
 
-Raphael studiert Kum Nye in seiner Yoga Praxis. 
+In Irland habe ich dann meine Ausbildung 2017 als Trainerin abgeschloßen und seitdem unterrichte ich auch regelmäßig. [Noeleen Tyrrell](https://www.ardnahoo.com/) hat mir mit Anusara Yoga eine neue Beziehung zu Kraft und Ausdauer eröffnet.
 
----
+Die sanfte Seite zur Körperwahrnehmung habe ich mit Somatic Yoga und [Lisa Petersen](https://lisapetersen.yoga/) kennen lernen dürfen. 
 
-Wir beide würde gerne ein Meditationszentrum aufbauen und nach Permakultur Prinzipien leben.
+Im tibetischen buddhistischen Zentrum [Jampa Ling](https://www.jampaling.org/) in Irland habe ich jahrelang Meditation erlernt und Buddhismus studiert. Ebenso habe ich dort als Haushälterin und Yogalehrerin gearbeitet.
+Falls auch du Jampa Ling unterstützen möchtest, kannst du hier eine [Spende](https://www.jampaling.org/about-us/support-jampa-ling/) überweisen.
+
+Besonders am Herzen liegt mir das [Projekt Ruanda](https://www.projekt-ruanda-erika-hronicek.at/), da ich dafür auch vor Ort Freiwilligenarbeit geleistet habe.
+
+# Raphael
+
+In Irland habe ich die Idee eines Retreat Zentrums in Polen gehabt. Jetzt machen wir daraus Wirklichkeit.
+
+Ich habe Kum Nye Yoga in Dzogchen Beara gelernt und meine Meditationspraxis in Jampa Ling vertieft.
+
+# Zukunftsaussichten
+
+Wir möchten eine Rückzugsmöglichkeit für den individuellen Ruhesuchenden im kleinen Rahmen bieten.
+
+In Jurte, bescheiden aber gemütlich eingerichtet, wird es Gelegenheit geben, in einer kleinen Gemeinschaft kurzfristig oder langfristig zu leben. Gemeinsames meditieren, essen und arbeiten ist möglich. Genauso wichtig ist jedoch das Entspannen zu lernen und Ruhe in sich selbst zu finden.
+
+Für den Einzelrückzug wird es Jurten mit Selbstverpflegungsmöglichkeiten geben. Da es verschiedene Wege gibt, einen Einzelrückzug zu gestalten, helfen wir einen Tagesablauf zu organisieren. 

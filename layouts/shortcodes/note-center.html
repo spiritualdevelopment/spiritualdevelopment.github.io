@@ -1,5 +1,5 @@
 {{ with .Inner }}
 <div style="width:100%; text-align:center;">
-    {{ print . }}
+    {{ . | markdownify}}
 </div>
 {{ end }}

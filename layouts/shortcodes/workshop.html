@@ -1,4 +1,4 @@
-<div class="workshop-item" style='{{ with .Get "color" }} background: {{ . }};{{ end }}'>
+<div class="workshop-item">
     <div class='workshop-header' >
         {{ .Get "title"}}
     </div>
@@ -6,6 +6,6 @@
         {{ .Get "subtitle"}}
     </div>
     <div class="workshop-descr">
-        {{ .Inner }}
+        {{ .Inner | markdownify }}
     </div>
 </div>
