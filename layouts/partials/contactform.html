@@ -1,12 +1,23 @@
-<div
-><a id="foxyform_embed_link_971479" href="https://www.foxyform.com/" style="display:none !important;">foxyform</a>
-    <script type="text/javascript">
-(function(d, t){
-   var g = d.createElement(t),
-       s = d.getElementsByTagName(t)[0];
-   g.src = "https://www.foxyform.com/js.php?id=971479&sec_hash=6399bf715a8&width=350px";
-   s.parentNode.insertBefore(g, s);
-}(document, "script"));
+<script src="https://hcaptcha.com/1/api.js" async defer></script>
+<form action="https://submit-form.com/hjnYOtXF">
+    <label for="name">Name</label>
+    <input type="text" id="name" name="name" placeholder="Name" required="" />
 
-    </script>
-</div>
+    <label for="email">Email</label>
+    <input type="email" id="email" name="email" placeholder="Email" required="" />
+
+    <label  for="surname">Surname</label>
+    <input type="text" id="surname" name="surname" placeholder="Surname" />
+    
+    <label for="message">Message</label>
+    <textarea
+            id="message"
+            name="message"
+            placeholder="Message"
+            required=""
+    ></textarea>
+    
+    <div class="h-captcha" data-sitekey="{{ .Param "hcaptcha.sitekey" }}"></div>
+    
+    <button type="submit">Send</button>
+</form>
