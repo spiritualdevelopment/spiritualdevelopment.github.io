@@ -1,7 +1,7 @@
 ---
 title: "Zajęcia"
 date: 2021-03-23T10:49:12+01:00
-LastMod: 2021-04-05
+LastMod: 2021-04-14T10:56:17+02:00
 menu:
     main:
         weight: 20
@@ -17,7 +17,7 @@ menu:
 
 Nie więcej niż pięcioro uczestników na zajęciach.
 
-Zadzwoń w celu rezerwacji miejsca. Ubierz się wygodnie i przynieś koc.
+Zadzwoń w celu rezerwacji miejsca. Ubierz się wygodnie, przynieś matę i koc.
 {{% /workshop %}}
 
 {{< workshop
@@ -29,7 +29,7 @@ Wprowadzenie do jogi. Dla każdego, niezależnie od wieku i formy.
 
 Nie więcej niż pięcioro uczestników na zajęciach.
 
-Zadzwoń w celu rezerwacji miejsca. Ubierz się wygodnie i przynieś koc.
+Zadzwoń w celu rezerwacji miejsca. Ubierz się wygodnie, przynieś matę i koc.
 {{% /workshop %}}
 
 {{< workshop

@@ -1,7 +1,7 @@
 ---
 title: "Workshops"
 date: 2021-02-06T19:34:17+01:00
-LastMod: 2021-04-05
+LastMod: 2021-04-14T10:56:17+02:00
 menu:
     main:
         weight: 20
@@ -17,7 +17,7 @@ Easy relaxation exercises and movement for back pain, tension, stress, after lon
 
 Max 5 participants each class. Please call to save your place.
 
-Please wear comfortable clothes and bring a blanket.
+Please wear comfortable clothes and bring a mat and a blanket.
 
 {{% /workshop %}}
 

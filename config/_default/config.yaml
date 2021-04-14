@@ -2,6 +2,16 @@ baseURL: "https://melisa.org.pl/"
 languageCode: "pl-PL"
 title: "Melisa Retreat"
 theme: "zen"
+disableKinds:
+- taxonomy
+- terms
+taxonomy:
+    category:
+        - categories
+    tag:
+        - tags
+ignoreErrors:
+    - error-disable-taxonomy
 
 params:
     feedlinks: false
