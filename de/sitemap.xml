@@ -55,39 +55,5 @@
                 hreflang="de"
                 href="https://melisa.org.pl/de/about/"
                 />
-  </url><url>
-    <loc>https://melisa.org.pl/de/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://melisa.org.pl/pl/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://melisa.org.pl/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://melisa.org.pl/de/categories/"
-                />
-  </url><url>
-    <loc>https://melisa.org.pl/de/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://melisa.org.pl/pl/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://melisa.org.pl/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://melisa.org.pl/de/tags/"
-                />
   </url>
 </urlset>
