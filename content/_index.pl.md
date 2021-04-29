@@ -1,7 +1,7 @@
 ---
 title: "Zajęcia"
 date: 2021-03-23T10:49:12+01:00
-LastMod: 2021-04-29T10:47:00+02:00
+LastMod: 2021-04-29T14:20:00+02:00
 menu:
     main:
         weight: 20
@@ -69,3 +69,5 @@ Po zajęciach przyjmujemy darowizny.</p>
 > IBAN: PL79114020040000341212805265
 >
 > BIC: BREXPLPWMBK
+> 
+> Tytuł: Darowizna
