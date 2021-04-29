@@ -1,7 +1,7 @@
 ---
 title: "O nas"
 Date: 2020-04-17T16:47:50+02:00
-LastMod: 2021-04-05
+LastMod: 2021-04-28T11:20:00+02:00
 menu:
     main:
         weight: 30
@@ -24,7 +24,7 @@ Jeśli chcesz wesprzeć Ośrodek, możesz zrobić to [tutaj](https://www.jampali
 
 Kolejnym projektem, który doceniam i w którym byłam wolontariuszką, jest [Projekt Ruanda](https://www.projekt-ruanda-erika-hronicek.at/).
 
-# Rafał
+# Rafał {#rafal}
 
 Podczas mojego pobytu w Jampa Ling w Irlandii postanowiłem otworzyć ośrodek jogowo-medytacyjny (retreat centre) w Polsce. Obecnie pracujemy nad realizacją tego projektu.
 

@@ -1,7 +1,7 @@
 ---
 title: "Zajęcia"
 date: 2021-03-23T10:49:12+01:00
-LastMod: 2021-04-14T10:56:17+02:00
+LastMod: 2021-04-29T10:47:00+02:00
 menu:
     main:
         weight: 20
@@ -45,7 +45,27 @@ Pomocne w radzeniu sobie ze stresem, lękami, napięciowymi bólami głowy i rzu
 
 {{< note-center >}}
 
-Wszystkie zajęcia są prowadzone przez [Izabelę](about).
+Zajęcia jogi są prowadzone przez [Izabelę](about#isabella).
 
-Po zajęciach przyjmujemy dobrowolne wpłaty.</p>
+Medytację prowadzi [Rafał](about#rafal)
+
+Zajęcia online w języku angielskim i niemieckim dostępne na [Facebook](https://www.facebook.com/Gemeinschaft-zur-spirituellen-Weiterentwicklung-Community-for-spirituality-100538134656608).
+
+Po zajęciach przyjmujemy darowizny.</p>
 {{< /note-center >}}
+
+#### Przekaż darowiznę
+
+##### Przelew w złotych
+
+> Rafal Krupinski
+>
+> Nr konta: 22114020040000310281132399
+
+##### Przelew w Euro (SEPA)
+
+> Rafal Krupinski
+>
+> IBAN: PL79114020040000341212805265
+>
+> BIC: BREXPLPWMBK

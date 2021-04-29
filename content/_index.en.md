@@ -1,7 +1,7 @@
 ---
 title: "Workshops"
 date: 2021-02-06T19:34:17+01:00
-LastMod: 2021-04-14T10:56:17+02:00
+LastMod: 2021-04-29T10:47:00+02:00
 menu:
     main:
         weight: 20
@@ -46,7 +46,20 @@ Helpful with stress, anxiety, tension headaches, avoidance of negative habits li
 {{< /workshops >}}
 
 {{< note-center >}}
-All workshops are instructed by [Isabella](about).
+All yoga workshops are instructed by [Isabella](about#isabella).
+Meditation is guided by [Raphael](about#rafal).
+
+Online teachings available on [Facebook](https://www.facebook.com/Gemeinschaft-zur-spirituellen-Weiterentwicklung-Community-for-spirituality-100538134656608).
 
 All workshops are donation based.
 {{< /note-center >}}
+
+#### Support us with a donation
+
+##### Bank transfer in Euro (SEPA)
+
+> Rafal Krupinski
+>
+> IBAN: PL79114020040000341212805265
+>
+> BIC: BREXPLPWMBK

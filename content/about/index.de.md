@@ -1,7 +1,7 @@
 ---
 title: "Über uns"
 Date: 2020-04-17T16:47:50+02:00
-LastMod: 2021-04-05
+LastMod: 2021-04-28T11:20:00+02:00
 menu:
     main:
         weight: 30
@@ -24,7 +24,7 @@ Falls auch du Jampa Ling unterstützen möchtest, kannst du hier eine [Spende](h
 
 Besonders am Herzen liegt mir das [Projekt Ruanda](https://www.projekt-ruanda-erika-hronicek.at/), da ich dafür auch vor Ort Freiwilligenarbeit geleistet habe.
 
-# Raphael
+# Raphael {#rafal}
 
 In Irland habe ich die Idee eines Retreat Zentrums in Polen gehabt. Jetzt machen wir daraus Wirklichkeit.
 

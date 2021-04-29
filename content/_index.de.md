@@ -1,7 +1,7 @@
 ---
 title: "Kurse"
 date: 2021-03-23T10:49:12+01:00
-LastMod: 2021-04-05
+LastMod: 2021-04-29T10:47:00+02:00
 menu:
     main:
         weight: 20
@@ -48,7 +48,20 @@ Hilfreich bei Stress, übermächtige Sorgen, Verspannungskopfschmerzen, um negat
 {{< /workshops >}}
 
 {{< note-center >}}
-Alle Kurse sind von [Isabella](about) geleitet.
+Alle Yogakurse sind von [Isabella](about#isabella) geleitet.
+Meditation wird von [Raphael](about#rafal) durchgeführt.
+
+Online Unterricht auf [Facebook](https://www.facebook.com/Gemeinschaft-zur-spirituellen-Weiterentwicklung-Community-for-spirituality-100538134656608) verfügbar.
 
 Spendenbasis.
 {{< /note-center >}}
+
+#### Unterstütze uns mit einer Spende
+
+##### Überweisung in Euro (SEPA)
+
+> Rafal Krupinski
+>
+> IBAN: PL79114020040000341212805265
+>
+> BIC: BREXPLPWMBK

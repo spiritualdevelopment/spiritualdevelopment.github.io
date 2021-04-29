@@ -1,7 +1,7 @@
 ---
 title: "About us"
 Date: 2020-04-17T16:47:50+02:00
-LastMod: 2021-04-05
+LastMod: 2021-04-28T11:20:00+02:00
 menu:
     main:
         weight: 30
@@ -25,9 +25,9 @@ If you like to support the center in any way, you can [donate here](https://www.
 
 Another project I treasure and volunteered for is [Projekt Ruanda](https://www.projekt-ruanda-erika-hronicek.at/). 
 
-# Raphael
+# Raphael {#rafal}
 
-In Ireland I had the idea of opening a retreat center in Poland. Now we are here to make it happen.
+During my stay in Jampa Ling in Ireland, I had the idea of opening a retreat center in Poland. Now we are here to make it happen.
 
 I’ve learned Kum Nye Yoga in Dzogchen Beara, and I’ve deepened my meditation practice in Jampa Ling.
 
