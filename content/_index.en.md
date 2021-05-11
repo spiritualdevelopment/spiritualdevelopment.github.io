@@ -1,7 +1,7 @@
 ---
 title: "Workshops"
 date: 2021-02-06T19:34:17+01:00
-LastMod: 2021-04-29T14:20:00+02:00
+LastMod: 2021-05-11T13:54:00+02:00
 menu:
     main:
         weight: 20
