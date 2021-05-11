@@ -7,6 +7,8 @@ menu:
         weight: 20
 ---
 
+# Klassen
+
 {{< workshops >}}
 {{< workshop
     title="Yoga am Dienstag"
@@ -51,12 +53,41 @@ Hilfreich bei Stress, übermächtige Sorgen, Verspannungskopfschmerzen, um negat
 Alle Yogakurse sind von [Isabella](about#isabella) geleitet.
 Meditation wird von [Raphael](about#rafal) durchgeführt.
 
-Online Unterricht auf [Facebook](https://www.facebook.com/Gemeinschaft-zur-spirituellen-Weiterentwicklung-Community-for-spirituality-100538134656608) verfügbar.
+Online Unterricht auf [Facebook](https://www.facebook.com/melisaretreat/) verfügbar.
 
 Spendenbasis.
 {{< /note-center >}}
 
-#### Unterstütze uns mit einer Spende
+# Seminare 2021
+
+## Yoga und Meditation für AnfängerInnen (in Deutsch)
+
+- <time datetime="2021-07-17">17 Juli (Sa)</time>
+- <time datetime="2021-09-19">17 September (So)</time>
+
+## Yoga and Meditation for Beginners (in Englisch)
+
+- <time datetime="2021-06-19">19 Juni (Sa)</time>
+- <time datetime="2021-08-15">15 August (So)</time>
+
+## Joga i medytacja dla początkujących (in Polnisch)
+
+- <time datetime="2021-06-13">13 Juni (So)</time>
+- <time datetime="2021-06-26">26 Juni (Sa)</time>
+- <time datetime="2021-07-10">10 Juli (Sa)</time>
+- <time datetime="2021-07-25">25 Juli (So)</time>
+- <time datetime="2021-08-07">7 August (Sa)</time>
+- <time datetime="2021-08-29">29 August (So)</time>
+- <time datetime="2021-09-11">11 September (Sa)</time>
+- <time datetime="2021-09-26">26 September (So)</time>
+
+10:00 bis 16:30.
+
+Vegetarisches Mittagessen inkludiert.
+
+Preis €20 pro Person. 
+
+# Unterstütze uns mit einer Spende
 
 ##### Überweisung in Euro (SEPA)
 
