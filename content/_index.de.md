@@ -1,7 +1,7 @@
 ---
 title: "Kurse"
 date: 2021-03-23T10:49:12+01:00
-LastMod: 2021-05-11T13:54:00+02:00
+LastMod: 2021-05-11T14:20:00+02:00
 menu:
     main:
         weight: 20
@@ -98,3 +98,7 @@ Preis €20 pro Person.
 > BIC: BREXPLPWMBK
 > 
 > Vermerk: Spende
+
+##### Kreditkarte
+
+{{< ko-fi >}}
