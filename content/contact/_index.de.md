@@ -1,4 +1,5 @@
 ---
+expiryDate: 2021-05-31
 title: "Kontakt"
 date: 2021-04-05
 menu:

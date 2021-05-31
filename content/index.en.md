@@ -1,7 +1,7 @@
 ---
 title: "About us"
 Date: 2020-04-17T16:47:50+02:00
-LastMod: 2021-04-28T11:20:00+02:00
+LastMod: 2021-05-31T11:20:00+02:00
 menu:
     main:
         weight: 30
@@ -27,14 +27,20 @@ Another project I treasure and volunteered for is [Projekt Ruanda](https://www.p
 
 # Raphael {#rafal}
 
-During my stay in Jampa Ling in Ireland, I had the idea of opening a retreat center in Poland. Now we are here to make it happen.
-
 I’ve learned Kum Nye Yoga in Dzogchen Beara, and I’ve deepened my meditation practice in Jampa Ling.
 
-# Future Plans
+# Support us with a donation
 
-We'd like to invite people with special skills like healers, high sensitive beings and all these, who are overwhelmed by the modern world and create a retreat area. We would like to offer a solution for the individual seeker of peace in a small setting.
+##### Bank transfer in Euro (SEPA)
 
-Yurts, simple but comfortable furnished, give the choice to live short or long term in a small community. It is possible to meditate, eat and work together. Also, it is important to experience relaxation and find stillness in us.
+> Rafal Krupinski
+>
+> IBAN: PL79114020040000341212805265
+>
+> BIC: BREXPLPWMBK
+>
+> Title: Donation
 
-The solitary yurts can provide self-catering options. There are different ways of cultivating a solitary retreat, and we can help to organize a daily routine.
+##### Credit card
+
+{{< ko-fi >}}

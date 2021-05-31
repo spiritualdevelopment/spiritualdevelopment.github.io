@@ -1,7 +1,7 @@
 ---
 title: "O nas"
 Date: 2020-04-17T16:47:50+02:00
-LastMod: 2021-04-28T11:20:00+02:00
+LastMod: 2021-05-31T11:20:00+02:00
 menu:
     main:
         weight: 30
@@ -26,14 +26,26 @@ Kolejnym projektem, który doceniam i w którym byłam wolontariuszką, jest [Pr
 
 # Rafał {#rafal}
 
-Podczas mojego pobytu w Jampa Ling w Irlandii postanowiłem otworzyć ośrodek jogowo-medytacyjny (retreat centre) w Polsce. Obecnie pracujemy nad realizacją tego projektu.
-
 Jogę Kum Nye poznałem w ośrodku buddyjskim Dzogchen Beara, a swoją praktykę medytacji pogłębiłem w Jampa Ling w Irlandii.
 
-# Plany na przyszłość
+# Przekaż darowiznę
 
-Wszystkim poszukującym samotności, spokoju i uduchowienia chcemy zaoferować przestrzeń, w której można będzie się wyciszyć.
+##### Przelew w złotych
 
-Jurty będą wyposażone skromnie ale wygodnie, z możliwością wynajęcia na krócej bądź dłużej. Dadzą możliwość wspólnej medytacji, jedzenia oraz pracy, oraz doświadczenia stanu relaksacji i spokoju.
+> Rafal Krupinski
+>
+> Nr konta: 22114020040000310281132399
 
-Mieszkający w jednoosobowych jurty będą mieli możliwość żywienia we własnym zakresie i spędzenia czasu w zupełnym odosobnieniu. Zaoferujemy pomoc w ułożeniu harmonogramu dnia.
+##### Przelew w Euro (SEPA)
+
+> Rafal Krupinski
+>
+> IBAN: PL79114020040000341212805265
+>
+> BIC: BREXPLPWMBK
+>
+> Tytuł: Darowizna
+
+##### Karta płatnicza
+
+{{< ko-fi >}}

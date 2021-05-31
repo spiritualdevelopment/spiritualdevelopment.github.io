@@ -1,7 +1,7 @@
 ---
 title: "Über uns"
 Date: 2020-04-17T16:47:50+02:00
-LastMod: 2021-04-28T11:20:00+02:00
+LastMod: 2021-05-31T11:20:00+02:00
 menu:
     main:
         weight: 30
@@ -26,14 +26,20 @@ Besonders am Herzen liegt mir das [Projekt Ruanda](https://www.projekt-ruanda-er
 
 # Raphael {#rafal}
 
-In Irland habe ich die Idee eines Retreat Zentrums in Polen gehabt. Jetzt machen wir daraus Wirklichkeit.
-
 Ich habe Kum Nye Yoga in Dzogchen Beara gelernt und meine Meditationspraxis in Jampa Ling vertieft.
 
-# Zukunftsaussichten
+# Unterstütze uns mit einer Spende
 
-Wir möchten eine Rückzugsmöglichkeit für den individuellen Ruhesuchenden im kleinen Rahmen bieten.
+##### Überweisung in Euro (SEPA)
 
-In Jurte, bescheiden aber gemütlich eingerichtet, wird es Gelegenheit geben, in einer kleinen Gemeinschaft kurzfristig oder langfristig zu leben. Gemeinsames meditieren, essen und arbeiten ist möglich. Genauso wichtig ist jedoch das Entspannen zu lernen und Ruhe in sich selbst zu finden.
+> Rafal Krupinski
+>
+> IBAN: PL79114020040000341212805265
+>
+> BIC: BREXPLPWMBK
+>
+> Vermerk: Spende
 
-Für den Einzelrückzug wird es Jurten mit Selbstverpflegungsmöglichkeiten geben. Da es verschiedene Wege gibt, einen Einzelrückzug zu gestalten, helfen wir einen Tagesablauf zu organisieren. 
+##### Kreditkarte
+
+{{< ko-fi >}}
