@@ -2,26 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://melisa.org.pl/de/contact/</loc>
-    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://melisa.org.pl/pl/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://melisa.org.pl/en/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://melisa.org.pl/de/contact/"
-                />
-  </url><url>
     <loc>https://melisa.org.pl/de/</loc>
-    <lastmod>2021-05-11T14:20:00+02:00</lastmod>
+    <lastmod>2021-05-31T11:20:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
@@ -38,22 +20,21 @@
                 href="https://melisa.org.pl/de/"
                 />
   </url><url>
-    <loc>https://melisa.org.pl/de/about/</loc>
-    <lastmod>2021-04-28T11:20:00+02:00</lastmod>
+    <loc>https://melisa.org.pl/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://melisa.org.pl/pl/about/"
+                href="https://melisa.org.pl/pl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://melisa.org.pl/en/about/"
+                href="https://melisa.org.pl/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://melisa.org.pl/de/about/"
+                href="https://melisa.org.pl/de/"
                 />
   </url>
 </urlset>

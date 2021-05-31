@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Workshops on Melisa Retreat</title>
+    <title>Melisa Retreat</title>
     <link>https://melisa.org.pl/en/</link>
-    <description>Recent content in Workshops on Melisa Retreat</description>
+    <description>Recent content on Melisa Retreat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Sat, 06 Feb 2021 19:34:17 +0100</lastBuildDate>
     <atom:link href="https://melisa.org.pl/en/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About us</title>
-      <link>https://melisa.org.pl/en/about/</link>
+      <link>https://melisa.org.pl/en/</link>
       <pubDate>Fri, 17 Apr 2020 16:47:50 +0200</pubDate>
-      <guid>https://melisa.org.pl/en/about/</guid>
+      <guid>https://melisa.org.pl/en/</guid>
       <description>&lt;h1 id=&#34;isabella&#34;&gt;Isabella&lt;/h1&gt;
 &lt;p&gt;I started practicing Yoga with age 19 and through my regular practice I came in touch with meditation also. Different teachers and influences accompanied my path.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.pranayoga.at/&#34;&gt;My first yoga studio&lt;/a&gt; I visited in Vienna and I can still highly recommend it.&lt;/p&gt;
@@ -24,12 +23,20 @@
 If you like to support the center in any way, you can &lt;a href=&#34;https://www.jampaling.org/about-us/support-jampa-ling/&#34;&gt;donate here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Another project I treasure and volunteered for is &lt;a href=&#34;https://www.projekt-ruanda-erika-hronicek.at/&#34;&gt;Projekt Ruanda&lt;/a&gt;.&lt;/p&gt;
 &lt;h1 id=&#34;rafal&#34;&gt;Raphael&lt;/h1&gt;
-&lt;p&gt;During my stay in Jampa Ling in Ireland, I had the idea of opening a retreat center in Poland. Now we are here to make it happen.&lt;/p&gt;
 &lt;p&gt;I’ve learned Kum Nye Yoga in Dzogchen Beara, and I’ve deepened my meditation practice in Jampa Ling.&lt;/p&gt;
-&lt;h1 id=&#34;future-plans&#34;&gt;Future Plans&lt;/h1&gt;
-&lt;p&gt;We&amp;rsquo;d like to invite people with special skills like healers, high sensitive beings and all these, who are overwhelmed by the modern world and create a retreat area. We would like to offer a solution for the individual seeker of peace in a small setting.&lt;/p&gt;
-&lt;p&gt;Yurts, simple but comfortable furnished, give the choice to live short or long term in a small community. It is possible to meditate, eat and work together. Also, it is important to experience relaxation and find stillness in us.&lt;/p&gt;
-&lt;p&gt;The solitary yurts can provide self-catering options. There are different ways of cultivating a solitary retreat, and we can help to organize a daily routine.&lt;/p&gt;
+&lt;h1 id=&#34;support-us-with-a-donation&#34;&gt;Support us with a donation&lt;/h1&gt;
+&lt;h5 id=&#34;bank-transfer-in-euro-sepa&#34;&gt;Bank transfer in Euro (SEPA)&lt;/h5&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Rafal Krupinski&lt;/p&gt;
+&lt;p&gt;IBAN: PL79114020040000341212805265&lt;/p&gt;
+&lt;p&gt;BIC: BREXPLPWMBK&lt;/p&gt;
+&lt;p&gt;Title: Donation&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h5 id=&#34;credit-card&#34;&gt;Credit card&lt;/h5&gt;
+&lt;script type=&#39;text/javascript&#39; src=&#39;https://storage.ko-fi.com/cdn/widget/Widget_2.js&#39;&gt;&lt;/script&gt;
+&lt;script type=&#39;text/javascript&#39;&gt;kofiwidget2.init(&#39;Donate&#39;, &#39;#323842&#39;, &#39;melisaorgpl&#39;);kofiwidget2.draw();
+&lt;/script&gt;
+
 </description>
     </item>
     

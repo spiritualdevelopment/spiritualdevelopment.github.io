@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kurse auf Melisa Retreat</title>
+    <title>Melisa Retreat</title>
     <link>https://melisa.org.pl/de/</link>
-    <description>Aktuelle Inhalte in Kurse auf Melisa Retreat</description>
+    <description>Aktuelle Inhalte auf Melisa Retreat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 23 Mar 2021 10:49:12 +0100</lastBuildDate>
     <atom:link href="https://melisa.org.pl/de/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Über uns</title>
-      <link>https://melisa.org.pl/de/about/</link>
+      <link>https://melisa.org.pl/de/</link>
       <pubDate>Fri, 17 Apr 2020 16:47:50 +0200</pubDate>
-      <guid>https://melisa.org.pl/de/about/</guid>
+      <guid>https://melisa.org.pl/de/</guid>
       <description>&lt;h1 id=&#34;isabella&#34;&gt;Isabella&lt;/h1&gt;
 &lt;p&gt;Über meine Yogapraxis, die ich mit 19 Jahren begonnen habe, ist mir auch das Meditieren nahe gebracht worden. Verschiedene Lehrer und Einflüße haben meinen Weg seitdem begleitet.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.pranayoga.at&#34;&gt;Mein erstes Yogastudio&lt;/a&gt; habe ich in Wien besucht und kann es immer noch sehr empfehlen.&lt;/p&gt;
@@ -24,12 +23,20 @@
 Falls auch du Jampa Ling unterstützen möchtest, kannst du hier eine &lt;a href=&#34;https://www.jampaling.org/about-us/support-jampa-ling/&#34;&gt;Spende&lt;/a&gt; überweisen.&lt;/p&gt;
 &lt;p&gt;Besonders am Herzen liegt mir das &lt;a href=&#34;https://www.projekt-ruanda-erika-hronicek.at/&#34;&gt;Projekt Ruanda&lt;/a&gt;, da ich dafür auch vor Ort Freiwilligenarbeit geleistet habe.&lt;/p&gt;
 &lt;h1 id=&#34;rafal&#34;&gt;Raphael&lt;/h1&gt;
-&lt;p&gt;In Irland habe ich die Idee eines Retreat Zentrums in Polen gehabt. Jetzt machen wir daraus Wirklichkeit.&lt;/p&gt;
 &lt;p&gt;Ich habe Kum Nye Yoga in Dzogchen Beara gelernt und meine Meditationspraxis in Jampa Ling vertieft.&lt;/p&gt;
-&lt;h1 id=&#34;zukunftsaussichten&#34;&gt;Zukunftsaussichten&lt;/h1&gt;
-&lt;p&gt;Wir möchten eine Rückzugsmöglichkeit für den individuellen Ruhesuchenden im kleinen Rahmen bieten.&lt;/p&gt;
-&lt;p&gt;In Jurte, bescheiden aber gemütlich eingerichtet, wird es Gelegenheit geben, in einer kleinen Gemeinschaft kurzfristig oder langfristig zu leben. Gemeinsames meditieren, essen und arbeiten ist möglich. Genauso wichtig ist jedoch das Entspannen zu lernen und Ruhe in sich selbst zu finden.&lt;/p&gt;
-&lt;p&gt;Für den Einzelrückzug wird es Jurten mit Selbstverpflegungsmöglichkeiten geben. Da es verschiedene Wege gibt, einen Einzelrückzug zu gestalten, helfen wir einen Tagesablauf zu organisieren.&lt;/p&gt;
+&lt;h1 id=&#34;unterstütze-uns-mit-einer-spende&#34;&gt;Unterstütze uns mit einer Spende&lt;/h1&gt;
+&lt;h5 id=&#34;überweisung-in-euro-sepa&#34;&gt;Überweisung in Euro (SEPA)&lt;/h5&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Rafal Krupinski&lt;/p&gt;
+&lt;p&gt;IBAN: PL79114020040000341212805265&lt;/p&gt;
+&lt;p&gt;BIC: BREXPLPWMBK&lt;/p&gt;
+&lt;p&gt;Vermerk: Spende&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h5 id=&#34;kreditkarte&#34;&gt;Kreditkarte&lt;/h5&gt;
+&lt;script type=&#39;text/javascript&#39; src=&#39;https://storage.ko-fi.com/cdn/widget/Widget_2.js&#39;&gt;&lt;/script&gt;
+&lt;script type=&#39;text/javascript&#39;&gt;kofiwidget2.init(&#39;Spende&#39;, &#39;#323842&#39;, &#39;melisaorgpl&#39;);kofiwidget2.draw();
+&lt;/script&gt;
+
 </description>
     </item>
     

@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zajęcia on Melisa</title>
+    <title>Melisa</title>
     <link>https://melisa.org.pl/pl/</link>
-    <description>Recent content in Zajęcia on Melisa</description>
+    <description>Recent content on Melisa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-PL</language>
-    <lastBuildDate>Tue, 23 Mar 2021 10:49:12 +0100</lastBuildDate>
     <atom:link href="https://melisa.org.pl/pl/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>O nas</title>
-      <link>https://melisa.org.pl/pl/about/</link>
+      <link>https://melisa.org.pl/pl/</link>
       <pubDate>Fri, 17 Apr 2020 16:47:50 +0200</pubDate>
-      <guid>https://melisa.org.pl/pl/about/</guid>
+      <guid>https://melisa.org.pl/pl/</guid>
       <description>&lt;h1 id=&#34;isabella&#34;&gt;Isabella&lt;/h1&gt;
 &lt;p&gt;Zaczęłam praktykować Jogę w wieku 19 lat, a dzięki regularnej praktyce zetknęłam się również z medytacją.&lt;/p&gt;
 &lt;p&gt;Moim pierwszym studio Jogi była &lt;a href=&#34;http://www.pranayoga.at/&#34;&gt;Prana das Yoga-Studio&lt;/a&gt;, którą w dalszym ciągu polecam.&lt;/p&gt;
@@ -24,12 +23,25 @@
 Jeśli chcesz wesprzeć Ośrodek, możesz zrobić to &lt;a href=&#34;https://www.jampaling.org/about-us/support-jampa-ling/&#34;&gt;tutaj&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Kolejnym projektem, który doceniam i w którym byłam wolontariuszką, jest &lt;a href=&#34;https://www.projekt-ruanda-erika-hronicek.at/&#34;&gt;Projekt Ruanda&lt;/a&gt;.&lt;/p&gt;
 &lt;h1 id=&#34;rafal&#34;&gt;Rafał&lt;/h1&gt;
-&lt;p&gt;Podczas mojego pobytu w Jampa Ling w Irlandii postanowiłem otworzyć ośrodek jogowo-medytacyjny (retreat centre) w Polsce. Obecnie pracujemy nad realizacją tego projektu.&lt;/p&gt;
 &lt;p&gt;Jogę Kum Nye poznałem w ośrodku buddyjskim Dzogchen Beara, a swoją praktykę medytacji pogłębiłem w Jampa Ling w Irlandii.&lt;/p&gt;
-&lt;h1 id=&#34;plany-na-przyszłość&#34;&gt;Plany na przyszłość&lt;/h1&gt;
-&lt;p&gt;Wszystkim poszukującym samotności, spokoju i uduchowienia chcemy zaoferować przestrzeń, w której można będzie się wyciszyć.&lt;/p&gt;
-&lt;p&gt;Jurty będą wyposażone skromnie ale wygodnie, z możliwością wynajęcia na krócej bądź dłużej. Dadzą możliwość wspólnej medytacji, jedzenia oraz pracy, oraz doświadczenia stanu relaksacji i spokoju.&lt;/p&gt;
-&lt;p&gt;Mieszkający w jednoosobowych jurty będą mieli możliwość żywienia we własnym zakresie i spędzenia czasu w zupełnym odosobnieniu. Zaoferujemy pomoc w ułożeniu harmonogramu dnia.&lt;/p&gt;
+&lt;h1 id=&#34;przekaż-darowiznę&#34;&gt;Przekaż darowiznę&lt;/h1&gt;
+&lt;h5 id=&#34;przelew-w-złotych&#34;&gt;Przelew w złotych&lt;/h5&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Rafal Krupinski&lt;/p&gt;
+&lt;p&gt;Nr konta: 22114020040000310281132399&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h5 id=&#34;przelew-w-euro-sepa&#34;&gt;Przelew w Euro (SEPA)&lt;/h5&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Rafal Krupinski&lt;/p&gt;
+&lt;p&gt;IBAN: PL79114020040000341212805265&lt;/p&gt;
+&lt;p&gt;BIC: BREXPLPWMBK&lt;/p&gt;
+&lt;p&gt;Tytuł: Darowizna&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h5 id=&#34;karta-płatnicza&#34;&gt;Karta płatnicza&lt;/h5&gt;
+&lt;script type=&#39;text/javascript&#39; src=&#39;https://storage.ko-fi.com/cdn/widget/Widget_2.js&#39;&gt;&lt;/script&gt;
+&lt;script type=&#39;text/javascript&#39;&gt;kofiwidget2.init(&#39;Wesprzyj nas&#39;, &#39;#323842&#39;, &#39;melisaorgpl&#39;);kofiwidget2.draw();
+&lt;/script&gt;
+
 </description>
     </item>
     
